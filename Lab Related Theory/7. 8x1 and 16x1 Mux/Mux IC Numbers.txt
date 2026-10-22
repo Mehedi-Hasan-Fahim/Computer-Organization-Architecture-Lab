@@ -1,0 +1,6 @@
+2x1 : 74157
+4x1 : 74153
+8x1 : 74151
+16x1 :74150
+16x1 :74HC4067, but It does not work in the proteus.
+
