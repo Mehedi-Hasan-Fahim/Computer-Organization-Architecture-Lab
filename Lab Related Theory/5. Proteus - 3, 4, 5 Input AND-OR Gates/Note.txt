@@ -1,0 +1,4 @@
+AND, AND_3, AND_5 .... = Works
+OR, OR_3, .... = Works
+
+XOR Gate Multiple Inputs(More than 2) = Does not work.
